@@ -13,7 +13,7 @@
 - [React 19](https://react.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vite.dev) (с поддержкой HMR и esbuild под капотом)
-- Готовая структура проекта (`src/`, `App.tsx`, `main.tsx`)
+- Готовая FSD архитектура проекта с alias. (`app`, `pages`, `entities`, `features`, `shared`, `widgets`)
 
 ## 🚀 Как запустить
 
